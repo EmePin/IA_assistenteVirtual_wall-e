@@ -5,6 +5,7 @@
     Version: 1.1
     Video base: https://youtu.be/8WKjX0dbh4E
 '''
+#ojo pip install PyAudio
 import pyjokes
 import AVMSpeechMath as sm
 import speech_recognition as sr
